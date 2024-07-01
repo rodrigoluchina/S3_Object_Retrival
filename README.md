@@ -1,7 +1,7 @@
 # S3 File Search and Download Project
 
 ## Description
-This project allows you to search for and download files from an S3 bucket based on phone numbers stored in JSON files.
+This project allows you to search for and download files from an S3 bucket based on phone numbers stored in JSON files.A structured folder tree is created recursively on your local machine.
 
 ![demonstrative_png](https://github.com/rodrigoluchina/S3_Object_Retrival/blob/main/assets/main.png)
 
